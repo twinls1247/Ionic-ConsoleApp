@@ -1,0 +1,11 @@
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\bin\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.deps.json
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\bin\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.runtimeconfig.json
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\bin\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.runtimeconfig.dev.json
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\bin\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.dll
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\bin\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.pdb
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.csprojResolveAssemblyReference.cache
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.csproj.CoreCompileInputs.cache
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.AssemblyInfoInputs.cache
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.AssemblyInfo.cs
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.dll
+C:\Users\khale\Documents\Visual Studio 2017\Projects\ConsoleApp-SrSoftwareEngineer\ConsoleApp-SrSoftwareEngineer\obj\Debug\netcoreapp2.0\ConsoleApp-SrSoftwareEngineer.pdb
